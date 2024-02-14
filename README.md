@@ -1,1 +1,3 @@
-# python-template
+# Python Template
+
+For any python project
